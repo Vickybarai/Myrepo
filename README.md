@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="
-  https://images.app.goo.gl/ytxkdsu6w3saEqMz9
+https://images.app.goo.gl/ytxkdsu6w3saEqMz9
   ">
 
 - 🔭 I’m currently student **BCA**
