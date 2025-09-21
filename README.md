@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vicky Barai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="
 https://images.app.goo.gl/ytxkdsu6w3saEqMz9
   ">
 
-- 🔭 I’m currently student **BCA**
+- 🔭 I’m currently student **MCA**
 
-- 🌱 I’m currently learning **Frontend developer**
+- 🌱 I’m currently learning **Devops**
 
 - 📫 How to reach me **baraivicky15@gmail.com**
 
