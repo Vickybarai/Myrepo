@@ -1,31 +1,75 @@
 <h1 align="center">Hi 👋, I'm Vicky Barai</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">🚀 Aspiring DevOps Engineer | Bridging Code, Cloud & Automation</h3>
 
-<img align="right" alt="Coding" width="400" src="
-https://images.app.goo.gl/ytxkdsu6w3saEqMz9
-  ">
+<img align="right" alt="DevOps Banner" width="400" src="https://images.unsplash.com/photo-1612831455543-ec00c0b2f2f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZGV2b3BzfHx8fHx8MTY5NTE3MjU1OA&ixlib=rb-4.0.3&q=80&w=400">
 
-- 🔭 I’m currently student **MCA**
+---
 
-- 🌱 I’m currently learning **Devops**
+### About Me
+Final year MCA student with hands-on DevOps learning in Linux, AWS, Git, Docker, Kubernetes, Jenkins, Terraform, and Python scripting.  
+Passionate about automating workflows and deploying containerized applications on cloud infrastructure.  
+Currently building real-world projects to strengthen hands-on expertise.
 
-<h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **baraivicky15@gmail.com**
-<a href="https://www.linkedin.com/in/vicky-barai-b06a521b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"> <img src="https://" alt="LinkedIn" width="40" height="40"/> </a>
+---
+
+### 🌱 DevOps Roadmap / Currently Learning
+- ✅ **Linux Fundamentals**  
+- ✅ **AWS Basics**  
+- 🔄 **Currently Learning:** Git, Docker, Kubernetes, Jenkins, Terraform  
+- 🎯 **Next Goals:** Python automation, Datadog monitoring, Multi-cloud deployments  
+
+---
+
+### 🛠️ Languages & Tools
 <p align="left">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<!-- <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>  -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+---
 
+### 🏗️ Projects (Hybrid Style)
 
+#### 🐳 Containerized Web App
+- **One-liner:** Built a containerized web application using Docker & Compose.  
+- **Details:** Managed containers, volumes, networks, multi-container setup.
 
+#### 🔄 CI/CD Pipeline (Jenkins)
+- **One-liner:** Automated build, test, and deployment workflows.  
+- **Details:** Jenkinsfile, plugins, webhooks, notifications, rollback.
 
+#### ☸️ Kubernetes Deployment
+- **One-liner:** Deployed microservices with ConfigMaps, Secrets, and rollbacks.  
+- **Details:** Pods, ReplicaSets, Deployments, namespaces, resource limits.
+
+#### 🏗️ Terraform Infrastructure
+- **One-liner:** Provisioned cloud infrastructure on AWS.  
+- **Details:** Reusable modules, state management, EC2/VPC/S3, security groups.
+
+#### 📊 Datadog Monitoring
+- **One-liner:** Created dashboards & alerts for infrastructure & apps.  
+- **Details:** Metrics, logs, monitors, agent setup, tagging strategy.
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
 </p>
 
+---
 
-
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/vicky-barai-b06a521b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:baraivicky15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
