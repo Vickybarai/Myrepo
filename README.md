@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vicky Barai</h1>
 <h3 align="center">🚀 Aspiring DevOps Engineer | Bridging Code, Cloud & Automation</h3>
 
-<img align="right" alt="DevOps Banner" width="400" src="https://images.unsplash.com/photo-1612831455543-ec00c0b2f2f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZGV2b3BzfHx8fHx8MTY5NTE3MjU1OA&ixlib=rb-4.0.3&q=80&w=400">
-
+<img align="right" alt="DevOps Banner" width="400" src="https://raw.githubusercontent.com/username/repo/main/images/devops-banner.jpg" />
 ---
 
 ### About Me
