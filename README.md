@@ -71,7 +71,7 @@ I believe in **automation over repetition** and **clarity over complexity**.
 ### 🔹 Dockerized 3-Tier Application on AWS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/architecture.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/architecture.gif" width="500px"/>
 </p>
 
 - Implemented a **3-tier architecture**:
@@ -90,7 +90,7 @@ I believe in **automation over repetition** and **clarity over complexity**.
 ### 🔹 CI/CD Pipeline Automation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/pipeline.gif" width="450"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/pipeline.gif" width="450px"/>
 </p>
 
 - Automated build and deployment pipelines
@@ -105,7 +105,7 @@ I believe in **automation over repetition** and **clarity over complexity**.
 ### 🔹 Infrastructure Automation with Terraform
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/automation.gif" width="450"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/automation.gif" width="4505"/>
 </p>
 
 - Provisioned AWS infrastructure using Terraform
@@ -128,10 +128,10 @@ I believe in **automation over repetition** and **clarity over complexity**.
 
 <p align="center">
   <a href="https://in.linkedin.com/in/vicky-barai-b06a521b7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
+    <!-- <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/> -->
   </a>
   <a href="mailto:baraivicky15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+    <!-- <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/> -->
   </a>
 </p>
 
