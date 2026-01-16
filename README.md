@@ -1,6 +1,6 @@
-# Hello everyone! 👋 I'm Vicky Barai
+# Hello everyone! 👋 I'm Prathamesh Dangore
 
-![DevOps Banner](https://miro.medium.com/v2/resize:fit:1400/1*pCaz29jmBaD-KHaS4dlKaQ.gif)
+![Development Time](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/development-time.gif)
 
 Welcome to my GitHub profile!  
 I am an early-career **DevOps & Cloud Engineer** focused on building scalable, automated, and reliable cloud environments using AWS and modern DevOps practices.
@@ -88,11 +88,6 @@ Built and deployed a **3-tier architecture** consisting of:
 **Description:**  
 Implemented automated pipelines to build, test, and deploy applications.
 
-**Key Highlights:**
-- Jenkins pipeline configuration  
-- GitHub integration with automated triggers  
-- Reduced manual deployment effort  
-
 **Tools:** Jenkins, GitHub Actions, Git, Linux  
 
 ---
@@ -100,11 +95,6 @@ Implemented automated pipelines to build, test, and deploy applications.
 ### 3️⃣ Infrastructure as Code with Terraform
 **Description:**  
 Automated AWS infrastructure provisioning using Terraform.
-
-**Key Highlights:**
-- Modular Terraform configurations  
-- Managed EC2 and related resources  
-- Improved repeatability and consistency  
 
 **Tools:** Terraform, AWS, Linux  
 
