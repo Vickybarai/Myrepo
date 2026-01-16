@@ -1,13 +1,20 @@
-# 👋 Hello everyone, I’m **Vicky Barai**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/devops.gif" width="700" />
-</p>
-
-<p align="center">
-  <b>DevOps & Cloud Engineer (Early Career)</b><br/>
-  AWS • Linux • CI/CD • Docker • Kubernetes • Terraform
-</p>
+<table>
+  <tr>
+    <td width="120">
+      <img 
+        src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/devops.gif"
+        width="110"
+        style="border-radius: 50%;"
+        alt="DevOps GIF"
+      />
+    </td>
+    <td>
+      <h1>👋 Hello everyone, I’m Vicky Barai</h1>
+      <p><b>DevOps & Cloud Engineer (Early Career)</b><br/>
+      AWS • Linux • CI/CD • Docker • Kubernetes • Terraform</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
