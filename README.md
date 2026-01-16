@@ -1,116 +1,129 @@
-<!-- DevOps / Cloud Engineer GitHub Profile -->
+# Hello everyone! 👋 I'm Vicky Barai
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aDcz6Y0fzWYvU5G/giphy.gif" width="140" alt="DevOps Animation" />
-</div>
+![DevOps Banner](https://miro.medium.com/v2/resize:fit:1400/1*pCaz29jmBaD-KHaS4dlKaQ.gif)
 
-<h1 align="center">Hi, I'm Vicky 👋</h1>
-
-<p align="center">
-  <i>Early-career DevOps & Cloud Engineer | AWS • Linux • CI/CD • Containers</i>
-</p>
+Welcome to my GitHub profile!  
+I am an early-career **DevOps & Cloud Engineer** focused on building scalable, automated, and reliable cloud environments using AWS and modern DevOps practices.
 
 ---
 
 ## 🚀 About Me
 
-I am an aspiring **DevOps & Cloud Engineer** with hands-on experience in building, deploying, and automating cloud-native applications.
+I am seeking an **entry-level DevOps / Cloud Engineer role** where I can contribute to real-world infrastructure, automation, and deployment workflows.
 
-I focus on:
-- Designing scalable AWS environments  
-- Automating deployments using CI/CD pipelines  
-- Containerizing applications with Docker  
-- Managing infrastructure using Infrastructure as Code  
+My strengths include:
+- Linux system administration  
+- AWS cloud services and networking  
+- CI/CD pipeline automation  
+- Containerization and orchestration  
+- Infrastructure as Code  
 
-I enjoy breaking complex systems into simple, reliable workflows.
-
----
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" title="Jenkins"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" title="Terraform"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  </p>
-</div>
+I enjoy translating application requirements into **automated, cloud-ready solutions**.
 
 ---
 
-## ☁️ AWS & DevOps Focus Areas
+## 📧 Contact Information
 
-- **AWS Services:** EC2, S3, IAM, RDS, CloudWatch, VPC  
-- **CI/CD:** Jenkins pipelines, GitHub Actions  
+- **Email:** your_email@gmail.com  
+- **Location:** Nagpur, India  
+
+---
+
+## 🛠 Skills & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## ☁️ Cloud & DevOps Expertise
+
+- **AWS:** EC2, S3, IAM, RDS, CloudWatch, VPC  
+- **CI/CD:** Jenkins, GitHub Actions  
 - **Containers:** Docker, Docker Compose, Kubernetes (EKS basics)  
-- **IaC:** Terraform for infrastructure provisioning  
-- **OS & Scripting:** Linux administration, Shell scripting, Python automation  
+- **IaC:** Terraform (modules, variables, state management)  
+- **OS & Automation:** Linux, Shell scripting, Python  
 
 ---
 
-## 🏗️ Key Projects
+## 💼 Practical Experience
 
-### 🔹 Dockerized 3-Tier Application (AWS)
-- Built and deployed a **3-tier architecture** using:
-  - Nginx (Frontend)
-  - Spring Boot (Backend)
-  - MySQL (Database)
-- Containerized services using Docker
-- Hosted on **AWS EC2**
-- Integrated **AWS RDS (MySQL)** for managed database
-- Focused on secure networking and service communication
+### DevOps & Cloud Implementation (Hands-On Projects)
 
-**Tech:** Docker, AWS EC2, AWS RDS, Nginx, Linux  
+- Designed and implemented CI/CD pipelines for automated build and deployment.
+- Deployed containerized applications using Docker and Kubernetes.
+- Provisioned AWS infrastructure using Terraform.
+- Configured monitoring and logging using AWS CloudWatch.
+- Worked on secure networking, IAM roles, and access policies.
 
 ---
 
-### 🔹 CI/CD Pipeline Automation
-- Designed CI/CD pipelines to:
-  - Build applications
-  - Run automated steps
-  - Deploy to cloud infrastructure
-- Used **Jenkins and GitHub Actions**
-- Implemented pipeline triggers and version control integration
+## 📂 Projects
 
-**Tech:** Jenkins, GitHub Actions, Git, Linux  
+### 1️⃣ Dockerized 3-Tier Application on AWS
+**Description:**  
+Built and deployed a **3-tier architecture** consisting of:
+- Nginx (Frontend)
+- Spring Boot (Backend)
+- MySQL (Database)
+
+**Key Highlights:**
+- Containerized services using Docker  
+- Hosted application on AWS EC2  
+- Integrated AWS RDS (MySQL)  
+- Ensured secure networking and port management  
+
+**Tools:** Docker, AWS EC2, AWS RDS, Nginx, Linux  
 
 ---
 
-### 🔹 Infrastructure Automation with Terraform
-- Automated AWS infrastructure provisioning
-- Created reusable Terraform configurations
-- Managed EC2 instances and supporting resources
+### 2️⃣ CI/CD Pipeline Automation
+**Description:**  
+Implemented automated pipelines to build, test, and deploy applications.
 
-**Tech:** Terraform, AWS, Linux  
+**Key Highlights:**
+- Jenkins pipeline configuration  
+- GitHub integration with automated triggers  
+- Reduced manual deployment effort  
+
+**Tools:** Jenkins, GitHub Actions, Git, Linux  
+
+---
+
+### 3️⃣ Infrastructure as Code with Terraform
+**Description:**  
+Automated AWS infrastructure provisioning using Terraform.
+
+**Key Highlights:**
+- Modular Terraform configurations  
+- Managed EC2 and related resources  
+- Improved repeatability and consistency  
+
+**Tools:** Terraform, AWS, Linux  
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" width="420"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
-## 🤝 Connect With Me
+## 💬 Let's Connect
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square"/>
-  </a>
-</div>
+- **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN  
+- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME  
+- **Email:** your_email@gmail.com  
 
 ---
 
-<div align="center">
-  <p><i>Focused on learning, building, and improving every day 🚀</i></p>
-</div>
+<p align="center">
+  <i>Focused on automation, reliability, and continuous improvement 🚀</i>
+</p>
