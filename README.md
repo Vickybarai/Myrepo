@@ -115,7 +115,7 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 <p align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"
        alt="DevOps Automation"
-       width="420"
+       width="400"
        style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.3);" />
 </p>
 
@@ -137,3 +137,14 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
   </a>
 </p>
+
+
+p align="center">
+  <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/6oFTUDQ-1.gif"
+       alt="DevOps Automation"
+       width="420"
+       style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.3);" />
+</p>
+
+
+
