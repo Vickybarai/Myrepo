@@ -49,7 +49,7 @@ I believe in <b>automation over repetition</b> and <b>learning by doing</b>.
 <!-- ================= DEVOPS  ================= -->
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg"
+  <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/DEVOPS.gif"
        alt="DevOps Lifecycle"
        width="600"
        style="border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,0.25);" />
