@@ -1,9 +1,9 @@
 <!-- ================= HEADER SECTION ================= -->
 <div style="display:flex; align-items:center; justify-content:center; gap:20px; margin-top:20px; margin-bottom:30px;">
 
-  <!-- Circular Profile GIF -->
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/devops.gif"
-       alt="Profile GIF"
+  <!-- Circular Profile GIF (SAFE) -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+       alt="DevOps Profile GIF"
        style="
        width:130px;
        height:130px;
@@ -34,13 +34,12 @@ and infrastructure automation using code.
 </p>
 
 <p style="text-align:justify; font-size:1.05em;">
-I strongly believe in <b>automation over repetition</b> and <b>clarity over complexity</b>.
-Currently strengthening hands-on expertise through real-world DevOps projects.
+I believe in <b>automation over repetition</b> and <b>clarity over complexity</b>.
 </p>
 
-<!-- Coding GIF -->
+<!-- Coding GIF (SAFE) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif"
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
        width="520"
        style="border-radius:16px; box-shadow:0 6px 25px rgba(0,0,0,0.25);"/>
 </p>
@@ -54,7 +53,7 @@ Currently strengthening hands-on expertise through real-world DevOps projects.
   <li>✅ <b>Linux Fundamentals</b></li>
   <li>✅ <b>AWS Basics</b></li>
   <li>🔄 <b>Currently Learning:</b> Git, Docker, Kubernetes, Jenkins, Terraform</li>
-  <li>🎯 <b>Next Goals:</b> Python Automation, Monitoring (Datadog), Advanced Kubernetes</li>
+  <li>🎯 <b>Next Goals:</b> Python Automation, Monitoring, Advanced Kubernetes</li>
 </ul>
 
 <hr/>
@@ -81,9 +80,9 @@ Currently strengthening hands-on expertise through real-world DevOps projects.
 <ul>
   <li><b>AWS:</b> EC2, S3, IAM, RDS, CloudWatch, VPC</li>
   <li><b>CI/CD:</b> Jenkins Pipelines, GitHub Actions</li>
-  <li><b>Containers:</b> Docker, Docker Compose, Kubernetes (EKS fundamentals)</li>
-  <li><b>Infrastructure as Code:</b> Terraform modules & state management</li>
-  <li><b>OS & Automation:</b> Linux administration, Shell scripting, Python</li>
+  <li><b>Containers:</b> Docker, Docker Compose, Kubernetes</li>
+  <li><b>Infrastructure as Code:</b> Terraform</li>
+  <li><b>OS & Automation:</b> Linux, Shell scripting, Python</li>
 </ul>
 
 <hr/>
@@ -93,51 +92,49 @@ Currently strengthening hands-on expertise through real-world DevOps projects.
 
 <h3>🐳 Dockerized 3-Tier Application on AWS</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/architecture.gif"
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif"
        width="520"
        style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.25);"/>
 </p>
 
 <ul>
-  <li>Nginx (Frontend), Spring Boot (Backend), MySQL (Database)</li>
-  <li>Fully containerized using Docker</li>
-  <li>Hosted on AWS EC2 with RDS integration</li>
+  <li>Nginx (Frontend), Backend Service, Database</li>
+  <li>Containerized using Docker</li>
+  <li>Deployed on AWS EC2</li>
 </ul>
 
-<b>Tech:</b> AWS EC2, RDS, Docker, Nginx, Linux
+<b>Tech:</b> AWS, Docker, Linux
 
 ---
 
 <h3>🔄 CI/CD Pipeline Automation</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/pipeline.gif"
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
        width="460"
        style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.25);"/>
 </p>
 
 <ul>
-  <li>Automated build & deployment workflows</li>
+  <li>Automated build & deployment</li>
   <li>Integrated GitHub with Jenkins</li>
-  <li>Reduced manual deployment effort</li>
 </ul>
 
-<b>Tech:</b> Jenkins, GitHub Actions, Git, Linux
+<b>Tech:</b> Jenkins, Git, Linux
 
 ---
 
-<h3>🏗️ Infrastructure Automation with Terraform</h3>
+<h3>🏗️ Infrastructure Automation</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/automation.gif"
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"
        width="460"
        style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.25);"/>
 </p>
 
 <ul>
-  <li>Provisioned AWS infrastructure using Terraform</li>
-  <li>Reusable modules & clean state management</li>
+  <li>Provisioned infrastructure using Terraform</li>
 </ul>
 
-<b>Tech:</b> Terraform, AWS, Linux
+<b>Tech:</b> Terraform, AWS
 
 <hr/>
 
@@ -145,7 +142,7 @@ Currently strengthening hands-on expertise through real-world DevOps projects.
 <h2>📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vickybarai&show_icons=true&theme=radical&hide_border=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vickybarai&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 <hr/>
@@ -164,7 +161,7 @@ Currently strengthening hands-on expertise through real-world DevOps projects.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rocket.gif" width="140"/>
+  <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="140"/>
 </p>
 
 <p align="center">
