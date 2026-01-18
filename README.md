@@ -1,9 +1,9 @@
 <!-- ================= HEADER SECTION ================= -->
 <div style="display:flex; align-items:center; justify-content:center; gap:20px; margin-top:20px; margin-bottom:30px;">
 
-  <!-- Circular Profile GIF (SAFE) -->
+  <!-- Circular Profile GIF -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-       alt="DevOps Profile GIF"
+       alt="DevOps Engineer"
        style="
        width:130px;
        height:130px;
@@ -14,7 +14,9 @@
 
   <!-- Name + Role -->
   <div>
-    <h1 style="margin:0; font-size:2.4em;">Hi 👋, I'm <span style="color:#2ea44f;">Vicky Barai</span></h1>
+    <h1 style="margin:0; font-size:2.4em;">
+      Hi 👋, I'm <span style="color:#2ea44f;">Vicky Barai</span>
+    </h1>
     <p style="margin-top:6px; font-size:1.1em; color:#555;">
       🚀 Aspiring DevOps & Cloud Engineer | AWS • Linux • CI/CD • Docker • Kubernetes • Terraform
     </p>
@@ -29,7 +31,7 @@
 <p style="text-align:justify; font-size:1.05em;">
 Final-year <b>MCA student</b> and early-career <b>DevOps & Cloud Engineer</b> focused on building
 <b>scalable, automated, and reliable cloud systems</b>.
-I work on AWS-based architectures, CI/CD pipelines, containerized applications,
+Experienced with AWS, CI/CD pipelines, containerized applications,
 and infrastructure automation using code.
 </p>
 
@@ -37,9 +39,9 @@ and infrastructure automation using code.
 I believe in <b>automation over repetition</b> and <b>clarity over complexity</b>.
 </p>
 
-<!-- Coding GIF (SAFE) -->
+<!-- Coding / Engineering GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
        width="520"
        style="border-radius:16px; box-shadow:0 6px 25px rgba(0,0,0,0.25);"/>
 </p>
@@ -90,16 +92,16 @@ I believe in <b>automation over repetition</b> and <b>clarity over complexity</b
 <!-- ================= PROJECTS ================= -->
 <h2>🏗️ Featured Projects</h2>
 
-<h3>🐳 Dockerized 3-Tier Application on AWS</h3>
+<h3>🐳 Dockerized 3-Tier Application</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif"
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"
        width="520"
        style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.25);"/>
 </p>
 
 <ul>
-  <li>Nginx (Frontend), Backend Service, Database</li>
-  <li>Containerized using Docker</li>
+  <li>Nginx (Frontend), Backend API, MySQL Database</li>
+  <li>Fully containerized using Docker</li>
   <li>Deployed on AWS EC2</li>
 </ul>
 
@@ -109,13 +111,13 @@ I believe in <b>automation over repetition</b> and <b>clarity over complexity</b
 
 <h3>🔄 CI/CD Pipeline Automation</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
+  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif"
        width="460"
        style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.25);"/>
 </p>
 
 <ul>
-  <li>Automated build & deployment</li>
+  <li>Automated build & deployment pipelines</li>
   <li>Integrated GitHub with Jenkins</li>
 </ul>
 
@@ -125,13 +127,14 @@ I believe in <b>automation over repetition</b> and <b>clarity over complexity</b
 
 <h3>🏗️ Infrastructure Automation</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
        width="460"
        style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.25);"/>
 </p>
 
 <ul>
-  <li>Provisioned infrastructure using Terraform</li>
+  <li>Provisioned AWS infrastructure using Terraform</li>
+  <li>Reusable modules & clean state management</li>
 </ul>
 
 <b>Tech:</b> Terraform, AWS
@@ -142,7 +145,7 @@ I believe in <b>automation over repetition</b> and <b>clarity over complexity</b
 <h2>📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vickybarai&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vickybarai&show_icons=true&theme=radical&hide_border=true" width="420"/>
 </p>
 
 <hr/>
@@ -161,7 +164,7 @@ I believe in <b>automation over repetition</b> and <b>clarity over complexity</b
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="140"/>
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="140"/>
 </p>
 
 <p align="center">
