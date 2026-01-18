@@ -1,100 +1,143 @@
-<!-- HEADER: GIF + Greeting -->
-<div style="display:flex; align-items:center; justify-content:center; margin-bottom:20px;">
-  <!-- Circular GIF -->
-  <img src="loaderror.gif"
-       alt="Profile GIF"
-       style="width:120px; height:120px; border-radius:50%; border:3px solid #4CAF50; box-shadow: 0px 4px 15px rgba(0,0,0,0.3); margin-right:20px;">
-  <!-- Greeting Text -->
+<!-- ================= HEADER ================= -->
+<div style="display:flex; align-items:center; justify-content:center; gap:22px; margin-top:25px; margin-bottom:30px;">
+
+  <!-- Circular Profile GIF -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+       alt="DevOps Profile"
+       style="
+       width:100%;
+       height:325px;
+       border-radius:50%;
+       border:4px solid #2ea44f;
+       box-shadow:0 8px 22px rgba(0,0,0,0.35);
+       "/>
+
+  <!-- Name + Role -->
   <div>
-    <h1 style="margin:0; font-size:2.2em; color:#4CAF50;">Hi, I'm Vicky Barai 👋</h1>
-    <p style="margin:2px 0 0; font-size:1.1em; color:#555;">DevOps & Cloud Engineer (Early Career) | AWS • Linux • CI/CD • Docker • Kubernetes • Terraform</p>
+    <h1 style="margin:0; font-size:2.3em;">
+      Hi 👋, I'm <span style="color:#2ea44f;">Vicky Barai</span>
+    </h1>
+    <p style="margin-top:6px; font-size:1.05em; color:#555;">
+      Aspiring DevOps | MCA Final Year Student
+    </p>
   </div>
 </div>
 
----
+<hr/>
 
-<!-- About Me Section -->
-## 🚀 About Me
-<p style="text-align:justify; color:#333;">
-I am an early-career <b>DevOps & Cloud Engineer</b> focused on building <b>scalable, automated, and reliable cloud systems</b>. My work revolves around designing AWS architectures, automating build and deployment pipelines, containerizing applications, and managing infrastructure using code. I believe in <b>automation over repetition</b> and <b>clarity over complexity</b>.
+<!-- ================= ABOUT ================= -->
+<h2>🚀 About Me</h2>
+
+<p style="text-align:justify;">
+I am a <b>Vicky Barai</b> and an <b>early-career DevOps </b> actively building
+hands-on experience in Linux, AWS, CI/CD pipelines, containerization, and infrastructure automation.
 </p>
 
----
+<p style="text-align:justify;">
+My learning focuses on deploying applications on cloud infrastructure,
+automating build and deployment workflows,
+and managing infrastructure using code.
+I am continuously strengthening my skills through real-world DevOps projects.
+</p>
 
-<!-- Development Time GIF -->
-<div style="text-align:center; margin:20px 0;">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="500" style="border-radius:15px; box-shadow:0px 4px 20px rgba(0,0,0,0.2);">
-</div>
+<p style="text-align:justify;">
+I believe in <b>automation over repetition</b> and <b>learning by doing</b>.
+</p>
 
----
+<hr/>
 
-<!-- Technologies & Tools -->
-## 🛠️ Technologies & Tools
+<!-- ================= DEVOPS  ================= -->
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+  <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/DEVOPS.gif"
+       alt="DevOps Lifecycle"
+       width="600"
+       style="border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,0.25);" />
 </p>
 
----
-
-<!-- Cloud & DevOps Capabilities -->
-## ☁️ Cloud & DevOps Capabilities
-<p style="color:#333;">
-- <b>AWS:</b> EC2, S3, IAM, RDS, CloudWatch, VPC<br/>
-- <b>CI/CD:</b> Jenkins Pipelines, GitHub Actions<br/>
-- <b>Containers:</b> Docker, Docker Compose, Kubernetes (EKS fundamentals)<br/>
-- <b>Infrastructure as Code:</b> Terraform modules & state management<br/>
-- <b>OS & Automation:</b> Linux administration, Shell scripting, Python
+<p align="center">
+Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 </p>
 
----
+<hr/>
 
-<!-- Featured Projects -->
-## 🏗️ Featured Projects
+<!-- ================= SKILLS ================= -->
+<h2>🛠️ Skills & Tools</h2>
 
-### 🔹 Dockerized 3-Tier Application on AWS
-<div style="text-align:center;">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/architecture.gif" width="500" style="border-radius:10px; box-shadow:0px 4px 20px rgba(0,0,0,0.2);">
-</div>
+<ul>
+  <li><b>Operating System:</b> Linux (basic administration, permissions, services)</li>
+  <li><b>Cloud:</b> AWS (EC2, S3, IAM, RDS, VPC, CloudWatch)</li>
+  <li><b>Version Control:</b> Git, GitHub</li>
+  <li><b>CI/CD:</b> Jenkins, GitHub Actions (basic pipelines)</li>
+  <li><b>Containers:</b> Docker, Docker Compose, Kubernetes (fundamentals)</li>
+  <li><b>Infrastructure as Code:</b> Terraform (basic modules & provisioning)</li>
+  <li><b>Scripting:</b> Shell scripting, Python (basics)</li>
+</ul>
 
-- Implemented a **3-tier architecture**: Nginx (Frontend), Spring Boot (Backend), MySQL (Database)  
-- Containerized all services using Docker  
-- Hosted on AWS EC2 with integrated RDS  
-- Ensured secure inter-service communication  
+<hr/>
 
-**Tech Stack:** AWS EC2, RDS, Docker, Nginx, Linux
+<!-- ================= PROJECTS ================= -->
+<h2>🏗️ Projects</h2>
 
----
+<h3>🐳 Containerized Web Application</h3>
+<ul>
+  <li>Built and containerized a web application using Docker</li>
+  <li>Worked with Docker images, containers, volumes, and networks</li>
+  <li>Deployed containers on Linux-based cloud instances</li>
+</ul>
 
-### 🔹 CI/CD Pipeline Automation
-<div style="text-align:center;">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/pipeline.gif" width="450" style="border-radius:10px; box-shadow:0px 4px 20px rgba(0,0,0,0.2);">
-</div>
+<h3>🔄 CI/CD Pipeline Automation</h3>
+<ul>
+  <li>Created basic CI/CD pipelines using Jenkins</li>
+  <li>Integrated GitHub repositories with Jenkins jobs</li>
+  <li>Automated build and deployment workflows</li>
+</ul>
 
-- Automated build & deployment pipelines  
-- Integrated GitHub repositories with Jenkins  
-- Reduced manual deployment effort  
+<h3>☸️ Kubernetes Deployment (Learning Project)</h3>
+<ul>
+  <li>Deployed containerized applications using Kubernetes</li>
+  <li>Worked with Pods, Deployments, Services, and basic scaling</li>
+  <li>Explored ConfigMaps and Secrets</li>
+</ul>
 
-**Tech Stack:** Jenkins, GitHub Actions, Git, Linux
+<h3>🏗️ Infrastructure Automation with Terraform</h3>
+<ul>
+  <li>Provisioned AWS resources using Terraform</li>
+  <li>Created EC2 instances and supporting infrastructure</li>
+  <li>Worked with Terraform state and reusable configurations</li>
+</ul>
 
----
+<hr/>
 
-### 🔹 Infrastructure Automation with Terraform
-<div style="text-align:center;">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/automation.gif" width="450" style="border-radius:10px; box-shadow:0px 4px 20px rgba(0,0,0,0.2);">
-</div>
+<!-- ================= DEVOPS IMAGE ================= -->
+<h2>🚀 DevOps </h2>
 
-- Provisioned AWS infrastructure using Terraform  
-- Managed reusable infrastructure configurations  
-- Automated EC2 and supporting cloud resources  
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"
+       alt="DevOps Automation"
+       width="200"
+       height="200"
+       style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.3);" />
+</p>
 
-**Tech Stack:** Terraform, AWS, Linux
+<p align="center">
+  <i>Learning • Building • Automating • Improving</i>
+</p>
+
+<hr/>
+
+<!-- ================= CONTACT ================= -->
+<h2>🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://in.linkedin.com/in/vicky-barai-b06a521b7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
+  </a>
+  <br/><br/>
+  <a href="mailto:baraivicky15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
@@ -104,26 +147,13 @@ I am an early-career <b>DevOps & Cloud Engineer</b> focused on building <b>scala
 </p>
 
 ---
-
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://in.linkedin.com/in/vicky-barai-b06a521b7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
-  </a>
-
-<br>
- 
- <a href="mailto:baraivicky15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
-  </a>
-</p>
-
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rocket.gif" width="140"/>
+  <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/6oFTUDQ-1.gif"
+       alt="DevOps Automation"
+       width="420"
+       style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.3);" />
 </p>
 
-<p align="center">
-  <i>Focused on building, automating, and improving every day 🚀</i>
-</p>
+
+
