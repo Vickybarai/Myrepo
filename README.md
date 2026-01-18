@@ -18,7 +18,7 @@
       Hi 👋, I'm <span style="color:#2ea44f;">Vicky Barai</span>
     </h1>
     <p style="margin-top:6px; font-size:1.05em; color:#555;">
-      Aspiring DevOps & Cloud Engineer | MCA Final Year Student
+      Aspiring DevOps | MCA Final Year Student
     </p>
   </div>
 </div>
@@ -29,7 +29,7 @@
 <h2>🚀 About Me</h2>
 
 <p style="text-align:justify;">
-I am a <b>final-year MCA student</b> and an <b>early-career DevOps & Cloud Engineer</b> actively building
+I am a <b>final-year MCA student</b> and an <b>early-career DevOps </b> actively building
 hands-on experience in Linux, AWS, CI/CD pipelines, containerization, and infrastructure automation.
 </p>
 
@@ -46,8 +46,7 @@ I believe in <b>automation over repetition</b> and <b>learning by doing</b>.
 
 <hr/>
 
-<!-- ================= DEVOPS LIFECYCLE ================= -->
-<h2>🔁 DevOps Lifecycle</h2>
+<!-- ================= DEVOPS  ================= -->
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg"
