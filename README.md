@@ -139,7 +139,7 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 </p>
 
 
-p align="center">
+
   <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/6oFTUDQ-1.gif"
        alt="DevOps Automation"
        width="420"
