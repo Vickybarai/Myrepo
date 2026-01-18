@@ -29,7 +29,7 @@
 <h2>🚀 About Me</h2>
 
 <p style="text-align:justify;">
-I am a <b>final-year MCA student</b> and an <b>early-career DevOps </b> actively building
+I am a <b>Vicky Barai</b> and an <b>early-career DevOps </b> actively building
 hands-on experience in Linux, AWS, CI/CD pipelines, containerization, and infrastructure automation.
 </p>
 
