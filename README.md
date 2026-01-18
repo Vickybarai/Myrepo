@@ -6,7 +6,7 @@
        alt="DevOps Profile"
        style="
        width:100%;
-       height:125px;
+       height:325px;
        border-radius:50%;
        border:4px solid #2ea44f;
        box-shadow:0 8px 22px rgba(0,0,0,0.35);
