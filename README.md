@@ -110,7 +110,7 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 <hr/>
 
 <!-- ================= DEVOPS IMAGE ================= -->
-<h2>🚀 DevOps Journey</h2>
+<h2>🚀 DevOps </h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"
