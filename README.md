@@ -1,15 +1,15 @@
-<!-- ================= HEADER SECTION ================= -->
-<div style="display:flex; align-items:center; justify-content:center; gap:20px; margin-top:20px; margin-bottom:30px;">
+<!-- ================= HEADER: PROFILE ================= -->
+<div style="display:flex; align-items:center; justify-content:center; gap:22px; margin-top:25px; margin-bottom:30px;">
 
-  <!-- Circular Profile GIF -->
+  <!-- Circular Profile GIF (stable source) -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-       alt="DevOps Engineer"
+       alt="DevOps Profile"
        style="
        width:130px;
        height:130px;
        border-radius:50%;
        border:4px solid #2ea44f;
-       box-shadow:0 8px 25px rgba(0,0,0,0.35);
+       box-shadow:0 8px 22px rgba(0,0,0,0.35);
        "/>
 
   <!-- Name + Role -->
@@ -25,13 +25,13 @@
 
 <hr/>
 
-<!-- ================= ABOUT ME ================= -->
+<!-- ================= ABOUT ================= -->
 <h2>🚀 About Me</h2>
 
 <p style="text-align:justify; font-size:1.05em;">
 Final-year <b>MCA student</b> and early-career <b>DevOps & Cloud Engineer</b> focused on building
 <b>scalable, automated, and reliable cloud systems</b>.
-Experienced with AWS, CI/CD pipelines, containerized applications,
+I work on AWS infrastructure, CI/CD pipelines, containerized applications,
 and infrastructure automation using code.
 </p>
 
@@ -39,113 +39,49 @@ and infrastructure automation using code.
 I believe in <b>automation over repetition</b> and <b>clarity over complexity</b>.
 </p>
 
-<!-- Coding / Engineering GIF -->
+<hr/>
+
+<!-- ================= DEVOPS LIFECYCLE ================= -->
+<h2>🔁 DevOps Lifecycle</h2>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-       width="520"
-       style="border-radius:16px; box-shadow:0 6px 25px rgba(0,0,0,0.25);"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg"
+       alt="DevOps Lifecycle"
+       width="600"
+       style="border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,0.25);" />
+</p>
+
+<p align="center" style="font-size:1em;">
+Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 </p>
 
 <hr/>
 
-<!-- ================= ROADMAP ================= -->
-<h2>🌱 DevOps Roadmap</h2>
+<!-- ================= SKILLS ================= -->
+<h2>🛠️ Core DevOps Skills</h2>
 
 <ul>
-  <li>✅ <b>Linux Fundamentals</b></li>
-  <li>✅ <b>AWS Basics</b></li>
-  <li>🔄 <b>Currently Learning:</b> Git, Docker, Kubernetes, Jenkins, Terraform</li>
-  <li>🎯 <b>Next Goals:</b> Python Automation, Monitoring, Advanced Kubernetes</li>
-</ul>
-
-<hr/>
-
-<!-- ================= TOOLS ================= -->
-<h2>🛠️ Technologies & Tools</h2>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
-</p>
-
-<hr/>
-
-<!-- ================= CAPABILITIES ================= -->
-<h2>☁️ Cloud & DevOps Capabilities</h2>
-
-<ul>
-  <li><b>AWS:</b> EC2, S3, IAM, RDS, CloudWatch, VPC</li>
-  <li><b>CI/CD:</b> Jenkins Pipelines, GitHub Actions</li>
-  <li><b>Containers:</b> Docker, Docker Compose, Kubernetes</li>
+  <li><b>Cloud:</b> AWS (EC2, S3, IAM, RDS, VPC, CloudWatch)</li>
+  <li><b>CI/CD:</b> Jenkins, GitHub Actions</li>
+  <li><b>Containers:</b> Docker, Docker Compose, Kubernetes (EKS basics)</li>
   <li><b>Infrastructure as Code:</b> Terraform</li>
-  <li><b>OS & Automation:</b> Linux, Shell scripting, Python</li>
+  <li><b>OS & Scripting:</b> Linux, Shell, Python</li>
 </ul>
 
 <hr/>
 
-<!-- ================= PROJECTS ================= -->
-<h2>🏗️ Featured Projects</h2>
+<!-- ================= END DEVOPS IMAGE ================= -->
+<h2>🚀 DevOps in Action</h2>
 
-<h3>🐳 Dockerized 3-Tier Application</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"
-       width="520"
-       style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.25);"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"
+       alt="DevOps Automation"
+       width="420"
+       style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.3);" />
 </p>
 
-<ul>
-  <li>Nginx (Frontend), Backend API, MySQL Database</li>
-  <li>Fully containerized using Docker</li>
-  <li>Deployed on AWS EC2</li>
-</ul>
-
-<b>Tech:</b> AWS, Docker, Linux
-
----
-
-<h3>🔄 CI/CD Pipeline Automation</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif"
-       width="460"
-       style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.25);"/>
-</p>
-
-<ul>
-  <li>Automated build & deployment pipelines</li>
-  <li>Integrated GitHub with Jenkins</li>
-</ul>
-
-<b>Tech:</b> Jenkins, Git, Linux
-
----
-
-<h3>🏗️ Infrastructure Automation</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
-       width="460"
-       style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.25);"/>
-</p>
-
-<ul>
-  <li>Provisioned AWS infrastructure using Terraform</li>
-  <li>Reusable modules & clean state management</li>
-</ul>
-
-<b>Tech:</b> Terraform, AWS
-
-<hr/>
-
-<!-- ================= STATS ================= -->
-<h2>📊 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vickybarai&show_icons=true&theme=radical&hide_border=true" width="420"/>
+  <i>Building • Automating • Scaling • Improving</i>
 </p>
 
 <hr/>
@@ -161,12 +97,4 @@ I believe in <b>automation over repetition</b> and <b>clarity over complexity</b
   <a href="mailto:baraivicky15@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="140"/>
-</p>
-
-<p align="center">
-  <i>Focused on building, automating, and improving every day 🚀</i>
 </p>
