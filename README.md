@@ -115,7 +115,8 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 <p align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"
        alt="DevOps Automation"
-       width="400"
+       width="200"
+       height="200"
        style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.3);" />
 </p>
 
