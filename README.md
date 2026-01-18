@@ -1,75 +1,172 @@
-<h1 align="center">Hi 👋, I'm Vicky Barai</h1>
-<h3 align="center">🚀 Aspiring DevOps Engineer | Bridging Code, Cloud & Automation</h3>
+<!-- ================= HEADER SECTION ================= -->
+<div style="display:flex; align-items:center; justify-content:center; gap:20px; margin-top:20px; margin-bottom:30px;">
 
-<img align="right" alt="DevOps Banner" width="400" src="https://raw.githubusercontent.com/username/repo/main/images/devops-banner.jpg" />
----
+  <!-- Circular Profile GIF -->
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/devops.gif"
+       alt="Profile GIF"
+       style="
+       width:130px;
+       height:130px;
+       border-radius:50%;
+       border:4px solid #2ea44f;
+       box-shadow:0 8px 25px rgba(0,0,0,0.35);
+       "/>
 
-### About Me
-Final year MCA student with hands-on DevOps learning in Linux, AWS, Git, Docker, Kubernetes, Jenkins, Terraform, and Python scripting.  
-Passionate about automating workflows and deploying containerized applications on cloud infrastructure.  
-Currently building real-world projects to strengthen hands-on expertise.
+  <!-- Name + Role -->
+  <div>
+    <h1 style="margin:0; font-size:2.4em;">Hi 👋, I'm <span style="color:#2ea44f;">Vicky Barai</span></h1>
+    <p style="margin-top:6px; font-size:1.1em; color:#555;">
+      🚀 Aspiring DevOps & Cloud Engineer | AWS • Linux • CI/CD • Docker • Kubernetes • Terraform
+    </p>
+  </div>
+</div>
 
----
+<hr/>
 
-### 🌱 DevOps Roadmap / Currently Learning
-- ✅ **Linux Fundamentals**  
-- ✅ **AWS Basics**  
-- 🔄 **Currently Learning:** Git, Docker, Kubernetes, Jenkins, Terraform  
-- 🎯 **Next Goals:** Python automation, Datadog monitoring, Multi-cloud deployments  
+<!-- ================= ABOUT ME ================= -->
+<h2>🚀 About Me</h2>
 
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+<p style="text-align:justify; font-size:1.05em;">
+Final-year <b>MCA student</b> and early-career <b>DevOps & Cloud Engineer</b> focused on building
+<b>scalable, automated, and reliable cloud systems</b>.
+I work on AWS-based architectures, CI/CD pipelines, containerized applications,
+and infrastructure automation using code.
 </p>
 
----
-
-### 🏗️ Projects (Hybrid Style)
-
-#### 🐳 Containerized Web App
-- **One-liner:** Built a containerized web application using Docker & Compose.  
-- **Details:** Managed containers, volumes, networks, multi-container setup.
-
-#### 🔄 CI/CD Pipeline (Jenkins)
-- **One-liner:** Automated build, test, and deployment workflows.  
-- **Details:** Jenkinsfile, plugins, webhooks, notifications, rollback.
-
-#### ☸️ Kubernetes Deployment
-- **One-liner:** Deployed microservices with ConfigMaps, Secrets, and rollbacks.  
-- **Details:** Pods, ReplicaSets, Deployments, namespaces, resource limits.
-
-#### 🏗️ Terraform Infrastructure
-- **One-liner:** Provisioned cloud infrastructure on AWS.  
-- **Details:** Reusable modules, state management, EC2/VPC/S3, security groups.
-
-#### 📊 Datadog Monitoring
-- **One-liner:** Created dashboards & alerts for infrastructure & apps.  
-- **Details:** Metrics, logs, monitors, agent setup, tagging strategy.
-
----
-
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+<p style="text-align:justify; font-size:1.05em;">
+I strongly believe in <b>automation over repetition</b> and <b>clarity over complexity</b>.
+Currently strengthening hands-on expertise through real-world DevOps projects.
 </p>
 
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif"
+       width="520"
+       style="border-radius:16px; box-shadow:0 6px 25px rgba(0,0,0,0.25);"/>
+</p>
+
+<hr/>
+
+<!-- ================= ROADMAP ================= -->
+<h2>🌱 DevOps Roadmap</h2>
+
+<ul>
+  <li>✅ <b>Linux Fundamentals</b></li>
+  <li>✅ <b>AWS Basics</b></li>
+  <li>🔄 <b>Currently Learning:</b> Git, Docker, Kubernetes, Jenkins, Terraform</li>
+  <li>🎯 <b>Next Goals:</b> Python Automation, Monitoring (Datadog), Advanced Kubernetes</li>
+</ul>
+
+<hr/>
+
+<!-- ================= TOOLS ================= -->
+<h2>🛠️ Technologies & Tools</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+</p>
+
+<hr/>
+
+<!-- ================= CAPABILITIES ================= -->
+<h2>☁️ Cloud & DevOps Capabilities</h2>
+
+<ul>
+  <li><b>AWS:</b> EC2, S3, IAM, RDS, CloudWatch, VPC</li>
+  <li><b>CI/CD:</b> Jenkins Pipelines, GitHub Actions</li>
+  <li><b>Containers:</b> Docker, Docker Compose, Kubernetes (EKS fundamentals)</li>
+  <li><b>Infrastructure as Code:</b> Terraform modules & state management</li>
+  <li><b>OS & Automation:</b> Linux administration, Shell scripting, Python</li>
+</ul>
+
+<hr/>
+
+<!-- ================= PROJECTS ================= -->
+<h2>🏗️ Featured Projects</h2>
+
+<h3>🐳 Dockerized 3-Tier Application on AWS</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/architecture.gif"
+       width="520"
+       style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.25);"/>
+</p>
+
+<ul>
+  <li>Nginx (Frontend), Spring Boot (Backend), MySQL (Database)</li>
+  <li>Fully containerized using Docker</li>
+  <li>Hosted on AWS EC2 with RDS integration</li>
+</ul>
+
+<b>Tech:</b> AWS EC2, RDS, Docker, Nginx, Linux
+
 ---
 
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/vicky-barai-b06a521b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:baraivicky15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<h3>🔄 CI/CD Pipeline Automation</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/pipeline.gif"
+       width="460"
+       style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.25);"/>
+</p>
+
+<ul>
+  <li>Automated build & deployment workflows</li>
+  <li>Integrated GitHub with Jenkins</li>
+  <li>Reduced manual deployment effort</li>
+</ul>
+
+<b>Tech:</b> Jenkins, GitHub Actions, Git, Linux
+
+---
+
+<h3>🏗️ Infrastructure Automation with Terraform</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/automation.gif"
+       width="460"
+       style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.25);"/>
+</p>
+
+<ul>
+  <li>Provisioned AWS infrastructure using Terraform</li>
+  <li>Reusable modules & clean state management</li>
+</ul>
+
+<b>Tech:</b> Terraform, AWS, Linux
+
+<hr/>
+
+<!-- ================= STATS ================= -->
+<h2>📊 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vickybarai&show_icons=true&theme=radical&hide_border=true" width="420"/>
+</p>
+
+<hr/>
+
+<!-- ================= CONTACT ================= -->
+<h2>🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://in.linkedin.com/in/vicky-barai-b06a521b7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
+  </a>
+  <br/><br/>
+  <a href="mailto:baraivicky15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rocket.gif" width="140"/>
+</p>
+
+<p align="center">
+  <i>Focused on building, automating, and improving every day 🚀</i>
 </p>
