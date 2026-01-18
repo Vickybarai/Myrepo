@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
        alt="DevOps Profile"
        style="
-       width:125px;
+       width:100%;
        height:125px;
        border-radius:50%;
        border:4px solid #2ea44f;
