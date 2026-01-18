@@ -1,12 +1,12 @@
-<!-- ================= HEADER: PROFILE ================= -->
+<!-- ================= HEADER ================= -->
 <div style="display:flex; align-items:center; justify-content:center; gap:22px; margin-top:25px; margin-bottom:30px;">
 
-  <!-- Circular Profile GIF (stable source) -->
+  <!-- Circular Profile GIF -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
        alt="DevOps Profile"
        style="
-       width:130px;
-       height:130px;
+       width:125px;
+       height:125px;
        border-radius:50%;
        border:4px solid #2ea44f;
        box-shadow:0 8px 22px rgba(0,0,0,0.35);
@@ -14,11 +14,11 @@
 
   <!-- Name + Role -->
   <div>
-    <h1 style="margin:0; font-size:2.4em;">
+    <h1 style="margin:0; font-size:2.3em;">
       Hi 👋, I'm <span style="color:#2ea44f;">Vicky Barai</span>
     </h1>
-    <p style="margin-top:6px; font-size:1.1em; color:#555;">
-      🚀 Aspiring DevOps & Cloud Engineer | AWS • Linux • CI/CD • Docker • Kubernetes • Terraform
+    <p style="margin-top:6px; font-size:1.05em; color:#555;">
+      Aspiring DevOps & Cloud Engineer | MCA Final Year Student
     </p>
   </div>
 </div>
@@ -28,15 +28,20 @@
 <!-- ================= ABOUT ================= -->
 <h2>🚀 About Me</h2>
 
-<p style="text-align:justify; font-size:1.05em;">
-Final-year <b>MCA student</b> and early-career <b>DevOps & Cloud Engineer</b> focused on building
-<b>scalable, automated, and reliable cloud systems</b>.
-I work on AWS infrastructure, CI/CD pipelines, containerized applications,
-and infrastructure automation using code.
+<p style="text-align:justify;">
+I am a <b>final-year MCA student</b> and an <b>early-career DevOps & Cloud Engineer</b> actively building
+hands-on experience in Linux, AWS, CI/CD pipelines, containerization, and infrastructure automation.
 </p>
 
-<p style="text-align:justify; font-size:1.05em;">
-I believe in <b>automation over repetition</b> and <b>clarity over complexity</b>.
+<p style="text-align:justify;">
+My learning focuses on deploying applications on cloud infrastructure,
+automating build and deployment workflows,
+and managing infrastructure using code.
+I am continuously strengthening my skills through real-world DevOps projects.
+</p>
+
+<p style="text-align:justify;">
+I believe in <b>automation over repetition</b> and <b>learning by doing</b>.
 </p>
 
 <hr/>
@@ -51,27 +56,62 @@ I believe in <b>automation over repetition</b> and <b>clarity over complexity</b
        style="border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,0.25);" />
 </p>
 
-<p align="center" style="font-size:1em;">
+<p align="center">
 Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 </p>
 
 <hr/>
 
 <!-- ================= SKILLS ================= -->
-<h2>🛠️ Core DevOps Skills</h2>
+<h2>🛠️ Skills & Tools</h2>
 
 <ul>
+  <li><b>Operating System:</b> Linux (basic administration, permissions, services)</li>
   <li><b>Cloud:</b> AWS (EC2, S3, IAM, RDS, VPC, CloudWatch)</li>
-  <li><b>CI/CD:</b> Jenkins, GitHub Actions</li>
-  <li><b>Containers:</b> Docker, Docker Compose, Kubernetes (EKS basics)</li>
-  <li><b>Infrastructure as Code:</b> Terraform</li>
-  <li><b>OS & Scripting:</b> Linux, Shell, Python</li>
+  <li><b>Version Control:</b> Git, GitHub</li>
+  <li><b>CI/CD:</b> Jenkins, GitHub Actions (basic pipelines)</li>
+  <li><b>Containers:</b> Docker, Docker Compose, Kubernetes (fundamentals)</li>
+  <li><b>Infrastructure as Code:</b> Terraform (basic modules & provisioning)</li>
+  <li><b>Scripting:</b> Shell scripting, Python (basics)</li>
 </ul>
 
 <hr/>
 
-<!-- ================= END DEVOPS IMAGE ================= -->
-<h2>🚀 DevOps in Action</h2>
+<!-- ================= PROJECTS ================= -->
+<h2>🏗️ Projects</h2>
+
+<h3>🐳 Containerized Web Application</h3>
+<ul>
+  <li>Built and containerized a web application using Docker</li>
+  <li>Worked with Docker images, containers, volumes, and networks</li>
+  <li>Deployed containers on Linux-based cloud instances</li>
+</ul>
+
+<h3>🔄 CI/CD Pipeline Automation</h3>
+<ul>
+  <li>Created basic CI/CD pipelines using Jenkins</li>
+  <li>Integrated GitHub repositories with Jenkins jobs</li>
+  <li>Automated build and deployment workflows</li>
+</ul>
+
+<h3>☸️ Kubernetes Deployment (Learning Project)</h3>
+<ul>
+  <li>Deployed containerized applications using Kubernetes</li>
+  <li>Worked with Pods, Deployments, Services, and basic scaling</li>
+  <li>Explored ConfigMaps and Secrets</li>
+</ul>
+
+<h3>🏗️ Infrastructure Automation with Terraform</h3>
+<ul>
+  <li>Provisioned AWS resources using Terraform</li>
+  <li>Created EC2 instances and supporting infrastructure</li>
+  <li>Worked with Terraform state and reusable configurations</li>
+</ul>
+
+<hr/>
+
+<!-- ================= DEVOPS IMAGE ================= -->
+<h2>🚀 DevOps Journey</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"
@@ -81,7 +121,7 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 </p>
 
 <p align="center">
-  <i>Building • Automating • Scaling • Improving</i>
+  <i>Learning • Building • Automating • Improving</i>
 </p>
 
 <hr/>
