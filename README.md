@@ -139,7 +139,15 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
   </a>
 </p>
 
+---
 
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vickybarai&show_icons=true&theme=radical&hide_border=true" width="420"/>
+</p>
+
+---
+---
 
   <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/6oFTUDQ-1.gif"
        alt="DevOps Automation"
