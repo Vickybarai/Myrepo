@@ -1,7 +1,7 @@
 <!-- HEADER: GIF + Greeting -->
 <div style="display:flex; align-items:center; justify-content:center; margin-bottom:20px;">
   <!-- Circular GIF -->
-  <img src="https://raw.githubusercontent.com/Shanmugamrskfamily/Shanmugamrskfamily/main/assets/devops.gif"
+  <img src="loaderror.gif"
        alt="Profile GIF"
        style="width:120px; height:120px; border-radius:50%; border:3px solid #4CAF50; box-shadow: 0px 4px 15px rgba(0,0,0,0.3); margin-right:20px;">
   <!-- Greeting Text -->
@@ -110,7 +110,10 @@ I am an early-career <b>DevOps & Cloud Engineer</b> focused on building <b>scala
   <a href="https://in.linkedin.com/in/vicky-barai-b06a521b7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
   </a>
-  <a href="mailto:baraivicky15@gmail.com">
+
+<br>
+ 
+ <a href="mailto:baraivicky15@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
   </a>
 </p>
