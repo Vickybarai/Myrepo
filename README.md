@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 <div style="display:flex; align-items:center; justify-content:center; gap:22px; margin-top:25px; margin-bottom:30px;">
 
-  <!-- Circular Profile GIF -->
+  <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
        alt="DevOps Profile"
        style="
@@ -11,7 +11,7 @@
        border:4px solid #2ea44f;
        box-shadow:0 8px 22px rgba(0,0,0,0.35);
        "/>
-
+  </p>
   <!-- Name + Role -->
   <div>
     <h1 style="margin:0; font-size:2.3em;">
@@ -148,7 +148,7 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 
 ---
 ---
-
+<p align="center">
   <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/6oFTUDQ-1.gif"
        alt="DevOps Automation"
        width="420"
