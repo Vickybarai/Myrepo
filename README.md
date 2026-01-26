@@ -110,7 +110,43 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 <hr/>
 
 <!-- ================= DEVOPS IMAGE ================= -->
-<h2>🚀 DevOps </h2>
+
+<h1 align="center">🚀 DevOps  Skills & Tools</h1>
+
+
+
+<!-- OS -->
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+
+<!-- Cloud -->
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white"/>
+
+<!-- DevOps / CI-CD -->
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+
+<!-- Containers -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker%20Compose-1488C6?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<!-- IaC -->
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+<!-- Version Control -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+
+<!-- Scripting -->
+<img src="https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"
@@ -126,34 +162,39 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 
 <hr/>
 
-<!-- ================= CONTACT ================= -->
-<h2>🤝 Connect With Me</h2>
+
+
+---
+<!-- 
+<h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">
-  <a href="https://in.linkedin.com/in/vicky-barai-b06a521b7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
-  </a>
-  <br/><br/>
-  <a href="mailto:baraivicky15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=Vickybarai&theme=dark&hide_border=false&count_private=true"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Vickybarai&theme=dark&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickybarai&theme=dark&layout=compact"/>
 </p>
 
 ---
 
-## 📊 GitHub Activity
+<h1 align="center">🏆 GitHub Trophies</h1>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vickybarai&show_icons=true&theme=radical&hide_border=true" width="420"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vickybarai&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
----
----
+--- -->
+
+<h1 align="center">✍️ Random Dev Quote</h1>
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+
 <p align="center">
   <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/6oFTUDQ-1.gif"
        alt="DevOps Automation"
        width="420"
        style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.3);" />
 </p>
-
-
 
