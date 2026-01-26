@@ -114,7 +114,7 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 <h1 align="center">🚀 DevOps  Skills & Tools</h1>
 
 
-
+<p align="center">
 <!-- OS -->
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 
@@ -146,6 +146,8 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 <!-- Scripting -->
 <img src="https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
 
 
 <p align="center">
