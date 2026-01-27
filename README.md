@@ -176,17 +176,9 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 ![](https://nirzak-streak-stats.vercel.app/?user=Vickybarai&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vickybarai&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vickybarai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Vickybarai&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 
 
 <!-- 
-<h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Vickybarai&theme=dark&hide_border=false&count_private=true"/>
@@ -196,15 +188,7 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 
 ---
 
-<h1 align="center">🏆 GitHub Trophies</h1>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vickybarai&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
-
 --- -->
-
-<h1 align="center">✍️ Random Dev Quote</h1>
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
