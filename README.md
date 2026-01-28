@@ -166,18 +166,6 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 
 
 
----
-<p align="center">
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Vicky_barai_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vicky-barai-b06a521b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vickybarai&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vickybarai&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vickybarai&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-</p>
-
 <!-- 
 
 <p align="center">
@@ -200,5 +188,17 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
        alt="DevOps Automation"
        width="420"
        style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.3);" />
+</p>
+
+---
+<p align="center">
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Vicky_barai_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vicky-barai-b06a521b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vickybarai&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vickybarai&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vickybarai&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 </p>
 
