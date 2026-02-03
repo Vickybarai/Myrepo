@@ -182,14 +182,6 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
-
-<p align="center">
-  <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/6oFTUDQ-1.gif"
-       alt="DevOps Automation"
-       width="420"
-       style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.3);" />
-</p>
-
 ---
 <p align="center">
 
