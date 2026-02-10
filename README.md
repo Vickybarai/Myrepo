@@ -192,7 +192,13 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 ![](https://nirzak-streak-stats.vercel.app/?user=Vickybarai&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vickybarai&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🌐 Socials:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Vicky_barai_)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicky-barai-b06a521b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
@@ -203,8 +209,6 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
        style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.3);" />
 </p>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+
 </p>
 
