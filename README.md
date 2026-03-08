@@ -4,8 +4,8 @@
   <!-- Profile Image -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
        alt="DevOps Profile" 
-       width="200" 
-       height="200" 
+       width="250" 
+       height="250" 
        style="border-radius:50%; border:4px solid #2ea44f; box-shadow:0 8px 22px rgba(0,0,0,0.35);">
   
   <br/>
