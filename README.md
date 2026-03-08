@@ -181,8 +181,8 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 # 📊 GitHub Stats:
 <p align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=Vickybarai&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vickybarai&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Vickybarai&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Vickybarai&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vickybarai&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
@@ -200,7 +200,7 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
   <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/6oFTUDQ-1.gif"
        alt="DevOps Automation"
        width="420"
-       style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.3);" />
+       style="border-radius:14px;box-shadow:0 6px 22px rgba(0,0,0,0.3);" />
 </p>
 
 
