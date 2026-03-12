@@ -154,16 +154,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vickybarai&theme=dark&hide_border=true&include_all_commits=true&count_private=false"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Vickybarai&theme=dark&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickybarai&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+      <!-- quotes -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
   <br/>
   <br/>
 
-  <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/6oFTUDQ-1.gif" 
+  <!-- <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/6oFTUDQ-1.gif" 
        alt="DevOps Automation" 
        width="420" 
        style="border-radius:14px; box-shadow:0 6px 22px rgba(0,0,0,0.3); max-width:100%;" />
-</div>
+</div> -->
 
 <br/>
 
